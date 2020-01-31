@@ -1,0 +1,17 @@
+# 不能有空行, 否则会被识别为无法加载的插件
+# flare-ida
+py\flare-ida\plugins\apply_callee_type_plugin.py
+py\flare-ida\plugins\shellcode_hashes_search_plugin.py
+py\flare-ida\plugins\stackstrings_plugin.py
+py\flare-ida\plugins\struct_typer_plugin.py
+# ida
+py\ida\plugins\alleycat\alleycat.py
+py\ida\plugins\codatify\codatify.py
+py\ida\plugins\fluorescence\fluorescence.py
+py\ida\plugins\funcprofiler\funcprofiler.py
+py\ida\plugins\leafblower\leafblower.py
+py\ida\plugins\localxrefs\localxrefs.py
+py\ida\plugins\mipslocalvars\mipslocalvars.py
+py\ida\plugins\mipsrop\mipsrop.py
+py\ida\plugins\rizzo\rizzo.py
+py\ida\modules\md5hash\md5hash.py

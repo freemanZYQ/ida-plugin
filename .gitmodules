@@ -1,0 +1,9 @@
+[submodule "Sark"]
+	path = Sark
+	url = https://github.com/tmr232/Sark
+[submodule "py/flare-ida"]
+	path = py/flare-ida
+	url = https://github.com/fireeye/flare-ida
+[submodule "py/ida"]
+	path = py/ida
+	url = https://github.com/devttys0/ida
